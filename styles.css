@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0;
+  }
+  
+  body{
+  background: radial-gradient(rgba(255, 255, 255, 0), rgba(255, 0, 0, 0.2));
+  }
+  
+  ul{
+  list-style: none;
+  }
+  
+  header{
+  padding: 60px ;
+  text-align: center;justify-content: center;
+  font-size:xx-large;
+  }
+  
+  header,
+  section{
+  max-width: 300px;
+  margin: 0 auto;
+  }
+  
+  header h1{
+  margin-bottom: 4px;
+  }
+  header h1 span{
+  color: #990061;
+  }
+  
+  
+  section{
+  margin-bottom: 24px;
+  text-align: center;
+  border-style:dashed ;
+  padding:30px; color: rgb(255, 150, 200);
+  }
+  section h2 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  
+  }
+  .details, .description{
+    padding: auto;color:black
+  }
+  
+  ul li {
+    margin-bottom: 16px;
+    display: flex;
+  }
+  
+  li .details{
+  max-width: 240px;
+  }
+  
+  iframe{
+  margin: 0 730px 0 730px;
+  }
+  
+    #Sucos{
+  margin-left: 190px;
+  margin-bottom: 16px;
+  display: flex;
+    }
+    #Refrigerante{
+  margin-left: 190px;
+  margin-bottom: 16px;
+  display: flex;
+    }
+  
+  h4{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align:center;
+  }
+  
+    #Sucos{
+    margin-left: 300px;
+  margin-bottom: 16px;
+  display: flex;
+    }
+    #Refrigerante{
+  margin-left: 300px;
+  margin-bottom: 16px;
+  display: flex;
+    }
+  
